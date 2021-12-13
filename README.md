@@ -16,7 +16,7 @@ This repository hosts the work done for the 2021/2022 M2 academic year. In addit
    - Update the appropriate packages
    - Lane tracking
  
-  The project planning can be found in the project section of the repository, the kenboard lists all what hasa been done and by whom.
+  The project planning can be found in the project report along side a list of all what has been acheivied and by whom.
  
 
  
